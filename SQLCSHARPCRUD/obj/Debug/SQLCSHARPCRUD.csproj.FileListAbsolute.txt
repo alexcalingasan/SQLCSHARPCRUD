@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\SQLCSHARPCRUD\SQLCSHARPCRUD\bin\Debug\SQLCSHARPCRUD.exe.config
+C:\Users\Alex\source\repos\SQLCSHARPCRUD\SQLCSHARPCRUD\bin\Debug\SQLCSHARPCRUD.exe
+C:\Users\Alex\source\repos\SQLCSHARPCRUD\SQLCSHARPCRUD\bin\Debug\SQLCSHARPCRUD.pdb
+C:\Users\Alex\source\repos\SQLCSHARPCRUD\SQLCSHARPCRUD\obj\Debug\SQLCSHARPCRUD.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\SQLCSHARPCRUD\SQLCSHARPCRUD\obj\Debug\SQLCSHARPCRUD.Form1.resources
+C:\Users\Alex\source\repos\SQLCSHARPCRUD\SQLCSHARPCRUD\obj\Debug\SQLCSHARPCRUD.Properties.Resources.resources
+C:\Users\Alex\source\repos\SQLCSHARPCRUD\SQLCSHARPCRUD\obj\Debug\SQLCSHARPCRUD.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\SQLCSHARPCRUD\SQLCSHARPCRUD\obj\Debug\SQLCSHARPCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\SQLCSHARPCRUD\SQLCSHARPCRUD\obj\Debug\SQLCSHARPCRUD.exe
+C:\Users\Alex\source\repos\SQLCSHARPCRUD\SQLCSHARPCRUD\obj\Debug\SQLCSHARPCRUD.pdb
